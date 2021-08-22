@@ -1,0 +1,23 @@
+{
+    "aTripList": [{
+        "participantList": [{
+            "amountToPay": 0,
+            "amountPaid": 10,
+            "payable": {},
+            "name": "lisa"
+        }],
+        "name": "banff",
+        "itemList": [{
+            "participantList": [{
+                "amountToPay": 0,
+                "amountPaid": 10,
+                "payable": {},
+                "name": "lisa"
+            }],
+            "nameOfPersonPaid": "lisa",
+            "title": "ice cream",
+            "expense": 10
+        }]
+    }],
+    "name": "tripList"
+}

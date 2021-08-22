@@ -1,0 +1,73 @@
+{
+    "aTripList": [
+        {
+            "participantList": [{
+                "amountToPay": 0,
+                "amountPaid": 10,
+                "payable": {},
+                "name": "jia"
+            }],
+            "name": "banff",
+            "itemList": [{
+                "participantList": [{
+                    "amountToPay": 0,
+                    "amountPaid": 10,
+                    "payable": {},
+                    "name": "jia"
+                }],
+                "nameOfPersonPaid": "jia",
+                "title": "ticket",
+                "expense": 10
+            }]
+        },
+        {
+            "participantList": [
+                {
+                    "amountToPay": 0,
+                    "amountPaid": 23,
+                    "payable": {},
+                    "name": "mm"
+                },
+                {
+                    "amountToPay": 7.67,
+                    "amountPaid": 0,
+                    "payable": {"mm": 7.67},
+                    "name": "dd"
+                },
+                {
+                    "amountToPay": 7.67,
+                    "amountPaid": 0,
+                    "payable": {"mm": 7.67},
+                    "name": "ss"
+                }
+            ],
+            "name": "vancouver",
+            "itemList": [{
+                "participantList": [
+                    {
+                        "amountToPay": 0,
+                        "amountPaid": 23,
+                        "payable": {},
+                        "name": "mm"
+                    },
+                    {
+                        "amountToPay": 7.67,
+                        "amountPaid": 0,
+                        "payable": {"mm": 7.67},
+                        "name": "dd"
+                    },
+                    {
+                        "amountToPay": 7.67,
+                        "amountPaid": 0,
+                        "payable": {"mm": 7.67},
+                        "name": "ss"
+                    }
+                ],
+                "nameOfPersonPaid": "mm",
+                "title": "ice cream",
+                "expense": 23
+            }]
+        }
+    ],
+    "name": "tripList"
+}

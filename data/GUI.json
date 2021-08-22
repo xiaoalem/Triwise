@@ -1,0 +1,27 @@
+{
+    "aTripList": [{
+        "participantList": [
+            {
+                "amountToPay": 0,
+                "amountPaid": 0,
+                "payable": {},
+                "name": "aa"
+            },
+            {
+                "amountToPay": 0,
+                "amountPaid": 0,
+                "payable": {},
+                "name": "bb"
+            },
+            {
+                "amountToPay": 0,
+                "amountPaid": 0,
+                "payable": {},
+                "name": "ww ee"
+            }
+        ],
+        "name": "Banff",
+        "itemList": []
+    }],
+    "name": "tripList"
+}

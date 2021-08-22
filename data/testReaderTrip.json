@@ -1,0 +1,23 @@
+{
+  "aTripList": [{
+      "itemList": [{
+          "title": "ice cream",
+          "participantList": [{
+              "name": "lisa",
+              "amountToPay": 10.0,
+              "amountPaid": 0.0,
+              "payable": {"jennie": 10.0}
+          }],
+          "expense": "10",
+          "nameOfPersonPaid": "lisa"
+      }],
+      "participantList": [{
+          "name": "lisa",
+          "amountToPay": 10.0,
+          "amountPaid": 0.0,
+          "payable": {"jennie": 10.0}
+      }],
+      "name": "current trip"
+  }],
+  "name": "tripList"
+}
